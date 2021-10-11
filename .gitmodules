@@ -1,3 +1,6 @@
 [submodule "team2"]
 	path = team2
 	url = https://github.com/aamijar/ncsu-usda-hackathon
+[submodule "embedded_ensemble"]
+	path = embedded_ensemble
+	url = https://github.com/DewangTara99/hackathon
